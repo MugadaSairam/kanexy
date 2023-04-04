@@ -1,2 +1,0 @@
-# kanexy
-hello world
